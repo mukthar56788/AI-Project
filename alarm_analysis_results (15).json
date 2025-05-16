@@ -1,0 +1,897 @@
+{
+  "summary": {
+    "total_alarms": 31,
+    "resolved_alarms": 25,
+    "resolution_rate": 80.65,
+    "time_period": {
+      "start": "2024-02-26T14:00:06",
+      "end": "2025-05-12T03:06:54"
+    }
+  },
+  "distributions": {
+    "by_client": {
+      "KSA": 17,
+      "UAE": 14
+    },
+    "by_type": {
+      "Freezer": 15,
+      "Chiller": 9,
+      "Commercial Tower": 6,
+      "LV Panel Meter": 1
+    },
+    "by_group": {
+      "ENVIRONMENTAL": 24,
+      "PREVENTIVE": 6,
+      "ELECTRICAL": 1
+    },
+    "by_name": {
+      "Extremely High Temperature": 8,
+      "High Temperature": 7,
+      "Door Open": 6,
+      "Site Not Communicating": 6,
+      "Low Temperature": 3,
+      "No power": 1
+    },
+    "by_hour": {
+      "10": 1,
+      "14": 1,
+      "18": 1,
+      "2": 21,
+      "3": 5,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "source_analysis": {
+    "top_20": {
+      "K 5512180 FZ 01": {
+        "count": 2,
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180"
+      },
+      "KFC Abdul Nasser New - 112750": {
+        "count": 1,
+        "path": "UAE"
+      },
+      "Hardees Khorfakkan Relocation - 114922": {
+        "count": 1,
+        "path": "UAE"
+      },
+      "Hardees Barsha Grand Lube - 114742": {
+        "count": 1,
+        "path": "UAE"
+      },
+      "Pizza Hut Grand Lube - 116803": {
+        "count": 1,
+        "path": "UAE"
+      },
+      "Pizza Hut Fujerah - 116724": {
+        "count": 1,
+        "path": "UAE"
+      },
+      "Pizza Hut Dubai - Abu Dhabi - 116726": {
+        "count": 1,
+        "path": "UAE"
+      },
+      "P 116957 CH 01": {
+        "count": 1,
+        "path": "UAE/Dubai/PizzaHut Barsha South - 116957"
+      },
+      "H 5514144 EM 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144"
+      },
+      "H 5514434 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434"
+      },
+      "K 112125 FZ 01": {
+        "count": 1,
+        "path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125"
+      },
+      "K 5512224 CH 02": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224"
+      },
+      "K 5512113 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Badia 2 - 5512113"
+      },
+      "K 5512215 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215"
+      },
+      "K 5512741 CH 01": {
+        "count": 1,
+        "path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741"
+      },
+      "K 5512443 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443"
+      },
+      "K 112947 FZ 01": {
+        "count": 1,
+        "path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947"
+      },
+      "H 5514419 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419"
+      },
+      "T 5518103 CH 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/TGIF Ar Rabi - 5518103"
+      },
+      "K 5512415 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415"
+      }
+    },
+    "bottom_20": {
+      "K 112125 FZ 01": {
+        "count": 1,
+        "path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125"
+      },
+      "K 5512224 CH 02": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224"
+      },
+      "K 5512113 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Badia 2 - 5512113"
+      },
+      "K 5512215 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215"
+      },
+      "K 5512741 CH 01": {
+        "count": 1,
+        "path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741"
+      },
+      "K 5512443 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443"
+      },
+      "K 112947 FZ 01": {
+        "count": 1,
+        "path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947"
+      },
+      "H 5514419 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419"
+      },
+      "T 5518103 CH 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/TGIF Ar Rabi - 5518103"
+      },
+      "K 5512415 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415"
+      },
+      "H 5514416 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Eastern/Hardees Al Kharjayah - 5514416"
+      },
+      "K 112824 CH 01": {
+        "count": 1,
+        "path": "UAE/Dubai/KFC Dubai Al Ain Abu Khadra - 112824"
+      },
+      "PH 116809 CH 01": {
+        "count": 1,
+        "path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809"
+      },
+      "K 5512172 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172"
+      },
+      "P 116954 FZ 01": {
+        "count": 1,
+        "path": "UAE/Sharjah/Pizza Hut Nukhailat - 116954"
+      },
+      "K 112715 CH 02": {
+        "count": 1,
+        "path": "UAE/Abu Dhabi/KFC Airport Garden - 112715"
+      },
+      "H 5514708 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708"
+      },
+      "H 5514128 CH 01": {
+        "count": 1,
+        "path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128"
+      },
+      "T 118709 CH 02": {
+        "count": 1,
+        "path": "UAE/Dubai/TGIF Jumeirah - 118709"
+      },
+      "K 5512410 FZ 01": {
+        "count": 1,
+        "path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410"
+      }
+    }
+  },
+  "performance": {
+    "resolution_times": {
+      "Door Open": {
+        "mean": 9.02,
+        "median": 5.05,
+        "count": 6
+      },
+      "Extremely High Temperature": {
+        "mean": 6.39,
+        "median": 5.0,
+        "count": 8
+      },
+      "High Temperature": {
+        "mean": 12.82,
+        "median": 10.0,
+        "count": 7
+      },
+      "Low Temperature": {
+        "mean": 3.33,
+        "median": 0.0,
+        "count": 3
+      },
+      "No power": {
+        "mean": 5.13,
+        "median": 5.13,
+        "count": 1
+      }
+    },
+    "sla_compliance": {
+      "within_15min": 80.0,
+      "within_30min": 100.0,
+      "within_1hour": 100.0
+    }
+  },
+  "resolution_extremes": {
+    "longest_20_resolutions": [
+      {
+        "source": "K 112947 FZ 01",
+        "path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947",
+        "time_minutes": 23.7,
+        "event_day": "2025-05-12T02:44:01",
+        "resolved_time": "2025-05-12T03:07:43"
+      },
+      {
+        "source": "K 5512443 FZ 01",
+        "path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443",
+        "time_minutes": 23.22,
+        "event_day": "2025-05-12T02:45:14",
+        "resolved_time": "2025-05-12T03:08:27"
+      },
+      {
+        "source": "H 5514416 FZ 01",
+        "path": "KSA/KSA Eastern/Hardees Al Kharjayah - 5514416",
+        "time_minutes": 20.0,
+        "event_day": "2025-05-12T02:36:35",
+        "resolved_time": "2025-05-12T02:56:35"
+      },
+      {
+        "source": "K 5512741 CH 01",
+        "path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741",
+        "time_minutes": 18.97,
+        "event_day": "2025-05-12T02:47:32",
+        "resolved_time": "2025-05-12T03:06:30"
+      },
+      {
+        "source": "K 5512224 CH 02",
+        "path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224",
+        "time_minutes": 16.6,
+        "event_day": "2025-05-12T02:54:30",
+        "resolved_time": "2025-05-12T03:11:06"
+      },
+      {
+        "source": "K 112125 FZ 01",
+        "path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:59:05",
+        "resolved_time": "2025-05-12T03:09:05"
+      },
+      {
+        "source": "K 5512113 FZ 01",
+        "path": "KSA/KSA Central/KFC Badia 2 - 5512113",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:53:43",
+        "resolved_time": "2025-05-12T03:03:43"
+      },
+      {
+        "source": "K 5512215 FZ 01",
+        "path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:49:23",
+        "resolved_time": "2025-05-12T02:59:23"
+      },
+      {
+        "source": "H 5514708 FZ 01",
+        "path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:30:05",
+        "resolved_time": "2025-05-12T02:40:05"
+      },
+      {
+        "source": "H 5514128 CH 01",
+        "path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:29:47",
+        "resolved_time": "2025-05-12T02:39:47"
+      },
+      {
+        "source": "K 5512180 FZ 01",
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+        "time_minutes": 7.45,
+        "event_day": "2025-05-12T02:38:57",
+        "resolved_time": "2025-05-12T02:46:24"
+      },
+      {
+        "source": "K 5512410 FZ 01",
+        "path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410",
+        "time_minutes": 7.13,
+        "event_day": "2025-05-12T02:29:17",
+        "resolved_time": "2025-05-12T02:36:25"
+      },
+      {
+        "source": "PH 116809 CH 01",
+        "path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809",
+        "time_minutes": 6.53,
+        "event_day": "2025-05-12T02:33:58",
+        "resolved_time": "2025-05-12T02:40:30"
+      },
+      {
+        "source": "H 5514144 EM 01",
+        "path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+        "time_minutes": 5.13,
+        "event_day": "2025-05-12T03:06:23",
+        "resolved_time": "2025-05-12T03:11:31"
+      },
+      {
+        "source": "K 5512180 FZ 01",
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+        "time_minutes": 5.02,
+        "event_day": "2025-05-12T03:01:24",
+        "resolved_time": "2025-05-12T03:06:25"
+      },
+      {
+        "source": "H 5514434 FZ 01",
+        "path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434",
+        "time_minutes": 5.0,
+        "event_day": "2025-05-12T03:00:29",
+        "resolved_time": "2025-05-12T03:05:29"
+      },
+      {
+        "source": "H 5514419 FZ 01",
+        "path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419",
+        "time_minutes": 5.0,
+        "event_day": "2025-05-12T02:42:39",
+        "resolved_time": "2025-05-12T02:47:39"
+      },
+      {
+        "source": "T 118709 CH 02",
+        "path": "UAE/Dubai/TGIF Jumeirah - 118709",
+        "time_minutes": 5.0,
+        "event_day": "2025-05-12T02:29:33",
+        "resolved_time": "2025-05-12T02:34:33"
+      },
+      {
+        "source": "K 5512172 FZ 01",
+        "path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172",
+        "time_minutes": 4.98,
+        "event_day": "2025-05-12T02:33:53",
+        "resolved_time": "2025-05-12T02:38:52"
+      },
+      {
+        "source": "T 5518103 CH 01",
+        "path": "KSA/KSA Central/TGIF Ar Rabi - 5518103",
+        "time_minutes": 2.65,
+        "event_day": "2025-05-12T02:38:25",
+        "resolved_time": "2025-05-12T02:41:04"
+      }
+    ],
+    "fastest_20_resolutions": [
+      {
+        "source": "K 5512415 FZ 01",
+        "path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415",
+        "time_minutes": 0.0,
+        "event_day": "2025-05-12T02:38:05",
+        "resolved_time": "2025-05-12T02:38:05"
+      },
+      {
+        "source": "P 116954 FZ 01",
+        "path": "UAE/Sharjah/Pizza Hut Nukhailat - 116954",
+        "time_minutes": 0.0,
+        "event_day": "2025-05-12T02:33:46",
+        "resolved_time": "2025-05-12T02:33:46"
+      },
+      {
+        "source": "K 112715 CH 02",
+        "path": "UAE/Abu Dhabi/KFC Airport Garden - 112715",
+        "time_minutes": 0.0,
+        "event_day": "2025-05-12T02:31:49",
+        "resolved_time": "2025-05-12T02:31:49"
+      },
+      {
+        "source": "K 112824 CH 01",
+        "path": "UAE/Dubai/KFC Dubai Al Ain Abu Khadra - 112824",
+        "time_minutes": 1.67,
+        "event_day": "2025-05-12T02:35:47",
+        "resolved_time": "2025-05-12T02:37:27"
+      },
+      {
+        "source": "P 116957 CH 01",
+        "path": "UAE/Dubai/PizzaHut Barsha South - 116957",
+        "time_minutes": 2.07,
+        "event_day": "2025-05-12T03:06:54",
+        "resolved_time": "2025-05-12T03:08:58"
+      },
+      {
+        "source": "T 5518103 CH 01",
+        "path": "KSA/KSA Central/TGIF Ar Rabi - 5518103",
+        "time_minutes": 2.65,
+        "event_day": "2025-05-12T02:38:25",
+        "resolved_time": "2025-05-12T02:41:04"
+      },
+      {
+        "source": "K 5512172 FZ 01",
+        "path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172",
+        "time_minutes": 4.98,
+        "event_day": "2025-05-12T02:33:53",
+        "resolved_time": "2025-05-12T02:38:52"
+      },
+      {
+        "source": "H 5514434 FZ 01",
+        "path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434",
+        "time_minutes": 5.0,
+        "event_day": "2025-05-12T03:00:29",
+        "resolved_time": "2025-05-12T03:05:29"
+      },
+      {
+        "source": "H 5514419 FZ 01",
+        "path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419",
+        "time_minutes": 5.0,
+        "event_day": "2025-05-12T02:42:39",
+        "resolved_time": "2025-05-12T02:47:39"
+      },
+      {
+        "source": "T 118709 CH 02",
+        "path": "UAE/Dubai/TGIF Jumeirah - 118709",
+        "time_minutes": 5.0,
+        "event_day": "2025-05-12T02:29:33",
+        "resolved_time": "2025-05-12T02:34:33"
+      },
+      {
+        "source": "K 5512180 FZ 01",
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+        "time_minutes": 5.02,
+        "event_day": "2025-05-12T03:01:24",
+        "resolved_time": "2025-05-12T03:06:25"
+      },
+      {
+        "source": "H 5514144 EM 01",
+        "path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+        "time_minutes": 5.13,
+        "event_day": "2025-05-12T03:06:23",
+        "resolved_time": "2025-05-12T03:11:31"
+      },
+      {
+        "source": "PH 116809 CH 01",
+        "path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809",
+        "time_minutes": 6.53,
+        "event_day": "2025-05-12T02:33:58",
+        "resolved_time": "2025-05-12T02:40:30"
+      },
+      {
+        "source": "K 5512410 FZ 01",
+        "path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410",
+        "time_minutes": 7.13,
+        "event_day": "2025-05-12T02:29:17",
+        "resolved_time": "2025-05-12T02:36:25"
+      },
+      {
+        "source": "K 5512180 FZ 01",
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+        "time_minutes": 7.45,
+        "event_day": "2025-05-12T02:38:57",
+        "resolved_time": "2025-05-12T02:46:24"
+      },
+      {
+        "source": "K 112125 FZ 01",
+        "path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:59:05",
+        "resolved_time": "2025-05-12T03:09:05"
+      },
+      {
+        "source": "K 5512113 FZ 01",
+        "path": "KSA/KSA Central/KFC Badia 2 - 5512113",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:53:43",
+        "resolved_time": "2025-05-12T03:03:43"
+      },
+      {
+        "source": "K 5512215 FZ 01",
+        "path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:49:23",
+        "resolved_time": "2025-05-12T02:59:23"
+      },
+      {
+        "source": "H 5514708 FZ 01",
+        "path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:30:05",
+        "resolved_time": "2025-05-12T02:40:05"
+      },
+      {
+        "source": "H 5514128 CH 01",
+        "path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128",
+        "time_minutes": 10.0,
+        "event_day": "2025-05-12T02:29:47",
+        "resolved_time": "2025-05-12T02:39:47"
+      }
+    ]
+  },
+  "temporal_trends": {
+    "weekly": {
+      "H 5514128 CH 01": {
+        "path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128",
+        "counts": {
+          "20": 1
+        }
+      },
+      "H 5514144 EM 01": {
+        "path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+        "counts": {
+          "20": 1
+        }
+      },
+      "H 5514416 FZ 01": {
+        "path": "KSA/KSA Eastern/Hardees Al Kharjayah - 5514416",
+        "counts": {
+          "20": 1
+        }
+      },
+      "H 5514419 FZ 01": {
+        "path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419",
+        "counts": {
+          "20": 1
+        }
+      },
+      "H 5514434 FZ 01": {
+        "path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434",
+        "counts": {
+          "20": 1
+        }
+      },
+      "H 5514708 FZ 01": {
+        "path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708",
+        "counts": {
+          "20": 1
+        }
+      },
+      "Hardees Barsha Grand Lube - 114742": {
+        "path": "UAE",
+        "counts": {
+          "24": 1
+        }
+      },
+      "Hardees Khorfakkan Relocation - 114922": {
+        "path": "UAE",
+        "counts": {
+          "31": 1
+        }
+      },
+      "K 112125 FZ 01": {
+        "path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 112715 CH 02": {
+        "path": "UAE/Abu Dhabi/KFC Airport Garden - 112715",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 112824 CH 01": {
+        "path": "UAE/Dubai/KFC Dubai Al Ain Abu Khadra - 112824",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 112947 FZ 01": {
+        "path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512113 FZ 01": {
+        "path": "KSA/KSA Central/KFC Badia 2 - 5512113",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512172 FZ 01": {
+        "path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512180 FZ 01": {
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+        "counts": {
+          "20": 2
+        }
+      },
+      "K 5512215 FZ 01": {
+        "path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512224 CH 02": {
+        "path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512410 FZ 01": {
+        "path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512415 FZ 01": {
+        "path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512443 FZ 01": {
+        "path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443",
+        "counts": {
+          "20": 1
+        }
+      },
+      "K 5512741 CH 01": {
+        "path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741",
+        "counts": {
+          "20": 1
+        }
+      },
+      "KFC Abdul Nasser New - 112750": {
+        "path": "UAE",
+        "counts": {
+          "44": 1
+        }
+      },
+      "P 116954 FZ 01": {
+        "path": "UAE/Sharjah/Pizza Hut Nukhailat - 116954",
+        "counts": {
+          "20": 1
+        }
+      },
+      "P 116957 CH 01": {
+        "path": "UAE/Dubai/PizzaHut Barsha South - 116957",
+        "counts": {
+          "20": 1
+        }
+      },
+      "PH 116809 CH 01": {
+        "path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809",
+        "counts": {
+          "20": 1
+        }
+      },
+      "Pizza Hut Dubai - Abu Dhabi - 116726": {
+        "path": "UAE",
+        "counts": {
+          "9": 1
+        }
+      },
+      "Pizza Hut Fujerah - 116724": {
+        "path": "UAE",
+        "counts": {
+          "39": 1
+        }
+      },
+      "Pizza Hut Grand Lube - 116803": {
+        "path": "UAE",
+        "counts": {
+          "14": 1
+        }
+      },
+      "T 118709 CH 02": {
+        "path": "UAE/Dubai/TGIF Jumeirah - 118709",
+        "counts": {
+          "20": 1
+        }
+      },
+      "T 5518103 CH 01": {
+        "path": "KSA/KSA Central/TGIF Ar Rabi - 5518103",
+        "counts": {
+          "20": 1
+        }
+      }
+    },
+    "monthly": {
+      "H 5514128 CH 01": {
+        "path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128",
+        "counts": {
+          "May": 1
+        }
+      },
+      "H 5514144 EM 01": {
+        "path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+        "counts": {
+          "May": 1
+        }
+      },
+      "H 5514416 FZ 01": {
+        "path": "KSA/KSA Eastern/Hardees Al Kharjayah - 5514416",
+        "counts": {
+          "May": 1
+        }
+      },
+      "H 5514419 FZ 01": {
+        "path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419",
+        "counts": {
+          "May": 1
+        }
+      },
+      "H 5514434 FZ 01": {
+        "path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434",
+        "counts": {
+          "May": 1
+        }
+      },
+      "H 5514708 FZ 01": {
+        "path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708",
+        "counts": {
+          "May": 1
+        }
+      },
+      "Hardees Barsha Grand Lube - 114742": {
+        "path": "UAE",
+        "counts": {
+          "June": 1
+        }
+      },
+      "Hardees Khorfakkan Relocation - 114922": {
+        "path": "UAE",
+        "counts": {
+          "August": 1
+        }
+      },
+      "K 112125 FZ 01": {
+        "path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 112715 CH 02": {
+        "path": "UAE/Abu Dhabi/KFC Airport Garden - 112715",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 112824 CH 01": {
+        "path": "UAE/Dubai/KFC Dubai Al Ain Abu Khadra - 112824",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 112947 FZ 01": {
+        "path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512113 FZ 01": {
+        "path": "KSA/KSA Central/KFC Badia 2 - 5512113",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512172 FZ 01": {
+        "path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512180 FZ 01": {
+        "path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+        "counts": {
+          "May": 2
+        }
+      },
+      "K 5512215 FZ 01": {
+        "path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512224 CH 02": {
+        "path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512410 FZ 01": {
+        "path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512415 FZ 01": {
+        "path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512443 FZ 01": {
+        "path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443",
+        "counts": {
+          "May": 1
+        }
+      },
+      "K 5512741 CH 01": {
+        "path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741",
+        "counts": {
+          "May": 1
+        }
+      },
+      "KFC Abdul Nasser New - 112750": {
+        "path": "UAE",
+        "counts": {
+          "October": 1
+        }
+      },
+      "P 116954 FZ 01": {
+        "path": "UAE/Sharjah/Pizza Hut Nukhailat - 116954",
+        "counts": {
+          "May": 1
+        }
+      },
+      "P 116957 CH 01": {
+        "path": "UAE/Dubai/PizzaHut Barsha South - 116957",
+        "counts": {
+          "May": 1
+        }
+      },
+      "PH 116809 CH 01": {
+        "path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809",
+        "counts": {
+          "May": 1
+        }
+      },
+      "Pizza Hut Dubai - Abu Dhabi - 116726": {
+        "path": "UAE",
+        "counts": {
+          "February": 1
+        }
+      },
+      "Pizza Hut Fujerah - 116724": {
+        "path": "UAE",
+        "counts": {
+          "September": 1
+        }
+      },
+      "Pizza Hut Grand Lube - 116803": {
+        "path": "UAE",
+        "counts": {
+          "April": 1
+        }
+      },
+      "T 118709 CH 02": {
+        "path": "UAE/Dubai/TGIF Jumeirah - 118709",
+        "counts": {
+          "May": 1
+        }
+      },
+      "T 5518103 CH 01": {
+        "path": "KSA/KSA Central/TGIF Ar Rabi - 5518103",
+        "counts": {
+          "May": 1
+        }
+      }
+    }
+  }
+}
