@@ -1,0 +1,802 @@
+[
+  {
+    "Source name": "K 5512180 FZ 01",
+    "Name": [
+      "Extremely High Temperature: 1",
+      "Door Open: 1"
+    ],
+    "Path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 2,
+    "Unresolved": 0,
+    "Resolved": 2,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 2.0,
+      "Frequncy in 7 days": 2,
+      "Frequency in 30 days": 2
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 6.23,
+      "By Condition": {
+        "Door Open": 7.45,
+        "Extremely High Temperature": 5.02
+      }
+    }
+  },
+  {
+    "Source name": "H 5514128 CH 01",
+    "Name": [
+      "Low Temperature: 1"
+    ],
+    "Path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 10.0,
+      "By Condition": {
+        "Low Temperature": 10.0
+      }
+    }
+  },
+  {
+    "Source name": "H 5514416 FZ 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Eastern/Hardees Al Kharjayah - 5514416",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 20.0,
+      "By Condition": {
+        "High Temperature": 20.0
+      }
+    }
+  },
+  {
+    "Source name": "H 5514419 FZ 01",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 5.0,
+      "By Condition": {
+        "Extremely High Temperature": 5.0
+      }
+    }
+  },
+  {
+    "Source name": "H 5514434 FZ 01",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 5.0,
+      "By Condition": {
+        "Extremely High Temperature": 5.0
+      }
+    }
+  },
+  {
+    "Source name": "H 5514144 EM 01",
+    "Name": [
+      "No power: 1"
+    ],
+    "Path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 5.13,
+      "By Condition": {
+        "No power": 5.13
+      }
+    }
+  },
+  {
+    "Source name": "Hardees Barsha Grand Lube - 114742",
+    "Name": [
+      "Site Not Communicating: 1"
+    ],
+    "Path": "UAE",
+    "Month": [
+      "June"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 1,
+    "Resolved": 0,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 0,
+      "Frequency in 30 days": 0
+    },
+    "Time taken to resolve in minutes": {
+      "Total": null,
+      "By Condition": {}
+    }
+  },
+  {
+    "Source name": "Hardees Khorfakkan Relocation - 114922",
+    "Name": [
+      "Site Not Communicating: 1"
+    ],
+    "Path": "UAE",
+    "Month": [
+      "August"
+    ],
+    "Week of Month": [
+      "Week 1"
+    ],
+    "Total Count": 1,
+    "Unresolved": 1,
+    "Resolved": 0,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 0,
+      "Frequency in 30 days": 0
+    },
+    "Time taken to resolve in minutes": {
+      "Total": null,
+      "By Condition": {}
+    }
+  },
+  {
+    "Source name": "K 112125 FZ 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 10.0,
+      "By Condition": {
+        "High Temperature": 10.0
+      }
+    }
+  },
+  {
+    "Source name": "K 112715 CH 02",
+    "Name": [
+      "Low Temperature: 1"
+    ],
+    "Path": "UAE/Abu Dhabi/KFC Airport Garden - 112715",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 0.0,
+      "By Condition": {
+        "Low Temperature": 0.0
+      }
+    }
+  },
+  {
+    "Source name": "K 112824 CH 01",
+    "Name": [
+      "Door Open: 1"
+    ],
+    "Path": "UAE/Dubai/KFC Dubai Al Ain Abu Khadra - 112824",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 1.67,
+      "By Condition": {
+        "Door Open": 1.67
+      }
+    }
+  },
+  {
+    "Source name": "K 112947 FZ 01",
+    "Name": [
+      "Door Open: 1"
+    ],
+    "Path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 23.7,
+      "By Condition": {
+        "Door Open": 23.7
+      }
+    }
+  },
+  {
+    "Source name": "K 5512113 FZ 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Central/KFC Badia 2 - 5512113",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 10.0,
+      "By Condition": {
+        "High Temperature": 10.0
+      }
+    }
+  },
+  {
+    "Source name": "H 5514708 FZ 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 10.0,
+      "By Condition": {
+        "High Temperature": 10.0
+      }
+    }
+  },
+  {
+    "Source name": "K 5512172 FZ 01",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 4.98,
+      "By Condition": {
+        "Extremely High Temperature": 4.98
+      }
+    }
+  },
+  {
+    "Source name": "K 5512215 FZ 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 10.0,
+      "By Condition": {
+        "High Temperature": 10.0
+      }
+    }
+  },
+  {
+    "Source name": "K 5512224 CH 02",
+    "Name": [
+      "Door Open: 1"
+    ],
+    "Path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 16.6,
+      "By Condition": {
+        "Door Open": 16.6
+      }
+    }
+  },
+  {
+    "Source name": "K 5512410 FZ 01",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 7.13,
+      "By Condition": {
+        "Extremely High Temperature": 7.13
+      }
+    }
+  },
+  {
+    "Source name": "K 5512415 FZ 01",
+    "Name": [
+      "Low Temperature: 1"
+    ],
+    "Path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 0.0,
+      "By Condition": {
+        "Low Temperature": 0.0
+      }
+    }
+  },
+  {
+    "Source name": "K 5512443 FZ 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 23.22,
+      "By Condition": {
+        "High Temperature": 23.22
+      }
+    }
+  },
+  {
+    "Source name": "K 5512741 CH 01",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 18.97,
+      "By Condition": {
+        "Extremely High Temperature": 18.97
+      }
+    }
+  },
+  {
+    "Source name": "KFC Abdul Nasser New - 112750",
+    "Name": [
+      "Site Not Communicating: 1"
+    ],
+    "Path": "UAE",
+    "Month": [
+      "October"
+    ],
+    "Week of Month": [
+      "Week 5"
+    ],
+    "Total Count": 1,
+    "Unresolved": 1,
+    "Resolved": 0,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 0,
+      "Frequency in 30 days": 0
+    },
+    "Time taken to resolve in minutes": {
+      "Total": null,
+      "By Condition": {}
+    }
+  },
+  {
+    "Source name": "P 116954 FZ 01",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "UAE/Sharjah/Pizza Hut Nukhailat - 116954",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 0.0,
+      "By Condition": {
+        "Extremely High Temperature": 0.0
+      }
+    }
+  },
+  {
+    "Source name": "P 116957 CH 01",
+    "Name": [
+      "Door Open: 1"
+    ],
+    "Path": "UAE/Dubai/PizzaHut Barsha South - 116957",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 2.07,
+      "By Condition": {
+        "Door Open": 2.07
+      }
+    }
+  },
+  {
+    "Source name": "PH 116809 CH 01",
+    "Name": [
+      "High Temperature: 1"
+    ],
+    "Path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 6.53,
+      "By Condition": {
+        "High Temperature": 6.53
+      }
+    }
+  },
+  {
+    "Source name": "Pizza Hut Dubai - Abu Dhabi - 116726",
+    "Name": [
+      "Site Not Communicating: 1"
+    ],
+    "Path": "UAE",
+    "Month": [
+      "February"
+    ],
+    "Week of Month": [
+      "Week 4"
+    ],
+    "Total Count": 1,
+    "Unresolved": 1,
+    "Resolved": 0,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 0,
+      "Frequency in 30 days": 0
+    },
+    "Time taken to resolve in minutes": {
+      "Total": null,
+      "By Condition": {}
+    }
+  },
+  {
+    "Source name": "Pizza Hut Fujerah - 116724",
+    "Name": [
+      "Site Not Communicating: 1"
+    ],
+    "Path": "UAE",
+    "Month": [
+      "September"
+    ],
+    "Week of Month": [
+      "Week 4"
+    ],
+    "Total Count": 1,
+    "Unresolved": 1,
+    "Resolved": 0,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 0,
+      "Frequency in 30 days": 0
+    },
+    "Time taken to resolve in minutes": {
+      "Total": null,
+      "By Condition": {}
+    }
+  },
+  {
+    "Source name": "Pizza Hut Grand Lube - 116803",
+    "Name": [
+      "Site Not Communicating: 1"
+    ],
+    "Path": "UAE",
+    "Month": [
+      "April"
+    ],
+    "Week of Month": [
+      "Week 1"
+    ],
+    "Total Count": 1,
+    "Unresolved": 1,
+    "Resolved": 0,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 0,
+      "Frequency in 30 days": 0
+    },
+    "Time taken to resolve in minutes": {
+      "Total": null,
+      "By Condition": {}
+    }
+  },
+  {
+    "Source name": "T 118709 CH 02",
+    "Name": [
+      "Extremely High Temperature: 1"
+    ],
+    "Path": "UAE/Dubai/TGIF Jumeirah - 118709",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 5.0,
+      "By Condition": {
+        "Extremely High Temperature": 5.0
+      }
+    }
+  },
+  {
+    "Source name": "T 5518103 CH 01",
+    "Name": [
+      "Door Open: 1"
+    ],
+    "Path": "KSA/KSA Central/TGIF Ar Rabi - 5518103",
+    "Month": [
+      "May"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 1,
+    "Unresolved": 0,
+    "Resolved": 1,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 2.65,
+      "By Condition": {
+        "Door Open": 2.65
+      }
+    }
+  }
+]
