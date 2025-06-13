@@ -1,0 +1,312 @@
+{
+  "door_open": [
+    {
+      "Source name": "K 112824 CH 01",
+      "Path": "UAE/Dubai/KFC Dubai Al Ain Abu Khadra - 112824",
+      "count": 1,
+      "time taken": 1.67,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 112947 FZ 01",
+      "Path": "UAE/Ajman/KFC Ajman Corniche Relocation - 112947",
+      "count": 1,
+      "time taken": 23.7,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512180 FZ 01",
+      "Path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+      "count": 1,
+      "time taken": 7.45,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512224 CH 02",
+      "Path": "KSA/KSA Central/KFC Anas Bin Malik Yasmin - 5512224",
+      "count": 1,
+      "time taken": 16.6,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "P 116957 CH 01",
+      "Path": "UAE/Dubai/PizzaHut Barsha South - 116957",
+      "count": 1,
+      "time taken": 2.07,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "T 5518103 CH 01",
+      "Path": "KSA/KSA Central/TGIF Ar Rabi - 5518103",
+      "count": 1,
+      "time taken": 2.65,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    }
+  ],
+  "no_power": [
+    {
+      "Source name": "H 5514144 EM 01",
+      "Path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+      "count": 1,
+      "time taken": 5.13,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    }
+  ],
+  "extremely_high_temperature": [
+    {
+      "Source name": "H 5514419 FZ 01",
+      "Path": "KSA/KSA Eastern/Hardees Al Mubaraz Dharan St - 5514419",
+      "count": 1,
+      "time taken": 5.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "H 5514434 FZ 01",
+      "Path": "KSA/KSA Central/Hardees Ring Road Hasa King Abdallah Rd - 5514434",
+      "count": 1,
+      "time taken": 5.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512172 FZ 01",
+      "Path": "KSA/KSA Central/KFC Dahiyat Laban - 5512172",
+      "count": 1,
+      "time taken": 4.98,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512180 FZ 01",
+      "Path": "KSA/KSA Central/KFC Al Rabeea - 5512180",
+      "count": 1,
+      "time taken": 5.02,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512410 FZ 01",
+      "Path": "KSA/KSA Eastern/KFC Al Awal Street - 5512410",
+      "count": 1,
+      "time taken": 7.13,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512741 CH 01",
+      "Path": "KSA/KSA Western/KFC Al Amir Fawaz - 5512741",
+      "count": 1,
+      "time taken": 18.97,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "P 116954 FZ 01",
+      "Path": "UAE/Sharjah/Pizza Hut Nukhailat - 116954",
+      "count": 1,
+      "time taken": 0.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "T 118709 CH 02",
+      "Path": "UAE/Dubai/TGIF Jumeirah - 118709",
+      "count": 1,
+      "time taken": 5.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    }
+  ],
+  "high_temperature": [
+    {
+      "Source name": "H 5514416 FZ 01",
+      "Path": "KSA/KSA Eastern/Hardees Al Kharjayah - 5514416",
+      "count": 1,
+      "time taken": 20.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "H 5514708 FZ 01",
+      "Path": "KSA/KSA Western/Hardees Sultana Al Madina Nours - 5514708",
+      "count": 1,
+      "time taken": 10.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 112125 FZ 01",
+      "Path": "UAE/Fujairah/KFC Souq Extra Fujairah - 112125",
+      "count": 1,
+      "time taken": 10.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512113 FZ 01",
+      "Path": "KSA/KSA Central/KFC Badia 2 - 5512113",
+      "count": 1,
+      "time taken": 10.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512215 FZ 01",
+      "Path": "KSA/KSA Central/KFC Imam Saud 2 - 5512215",
+      "count": 1,
+      "time taken": 10.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512443 FZ 01",
+      "Path": "KSA/KSA Central/KFC Shahabiya Al Hasaa - 5512443",
+      "count": 1,
+      "time taken": 23.22,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "PH 116809 CH 01",
+      "Path": "UAE/Dubai/Pizza Hut Enoc Oud Metha - 116809",
+      "count": 1,
+      "time taken": 6.53,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    }
+  ],
+  "low_temperature": [
+    {
+      "Source name": "H 5514128 CH 01",
+      "Path": "KSA/KSA Central/Hardees Imam Saud El Imam Saud Road - 5514128",
+      "count": 1,
+      "time taken": 10.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 112715 CH 02",
+      "Path": "UAE/Abu Dhabi/KFC Airport Garden - 112715",
+      "count": 1,
+      "time taken": 0.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    },
+    {
+      "Source name": "K 5512415 FZ 01",
+      "Path": "KSA/KSA Eastern/KFC El Jubail Industrial El Jubail Royal Ints - 5512415",
+      "count": 1,
+      "time taken": 0.0,
+      "frequency": {
+        "alarms_per_active_day": 1.0,
+        "daily_occurrence_rate": 0.0,
+        "recent_30day_count": 1,
+        "recent_7day_count": 1
+      }
+    }
+  ]
+}
