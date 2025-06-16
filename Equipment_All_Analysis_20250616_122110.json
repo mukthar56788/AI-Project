@@ -1,0 +1,38 @@
+[
+  {
+    "Source name": "H 5514144 EM 01",
+    "Name": [
+      "No power: 10"
+    ],
+    "Path": "KSA/KSA Central/Hardees Imam Saud 2 - 5514144",
+    "Month": [
+      "January",
+      "February",
+      "April",
+      "May",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "Week of Month": [
+      "Week 2"
+    ],
+    "Total Count": 10,
+    "Unresolved": 0,
+    "Resolved": 10,
+    "Frequency": {
+      "Frequency of Alarms in Active day": 1.0,
+      "Frequncy in 7 days": 1,
+      "Frequency in 30 days": 1
+    },
+    "Time taken to resolve in minutes": {
+      "Total": 0.0,
+      "By Condition": {
+        "No power": 0.0
+      }
+    }
+  }
+]
