@@ -1,0 +1,201 @@
+{
+  "alarm_types": [
+    {
+      "Alarm Type": "Door Open",
+      "Total Occurrences": 4714,
+      "Affected Equipment Count": 530,
+      "Criticality Distribution": {
+        "MEDIUM": 4714
+      },
+      "Average Resolution (min)": 50.421073594971865
+    },
+    {
+      "Alarm Type": "Extremely High Temperature",
+      "Total Occurrences": 2251,
+      "Affected Equipment Count": 331,
+      "Criticality Distribution": {
+        "CRITICAL": 2251
+      },
+      "Average Resolution (min)": 72.64053479185658
+    },
+    {
+      "Alarm Type": "High Temperature",
+      "Total Occurrences": 2201,
+      "Affected Equipment Count": 288,
+      "Criticality Distribution": {
+        "HIGH": 2193,
+        "MEDIUM": 8
+      },
+      "Average Resolution (min)": 87.29999217894571
+    },
+    {
+      "Alarm Type": "Low Temperature",
+      "Total Occurrences": 963,
+      "Affected Equipment Count": 96,
+      "Criticality Distribution": {
+        "HIGH": 963
+      },
+      "Average Resolution (min)": 83.74389421370252
+    },
+    {
+      "Alarm Type": "No power",
+      "Total Occurrences": 183,
+      "Affected Equipment Count": 34,
+      "Criticality Distribution": {
+        "CRITICAL": 183
+      },
+      "Average Resolution (min)": 111.19847560975609
+    },
+    {
+      "Alarm Type": "Site Not Communicating",
+      "Total Occurrences": 68,
+      "Affected Equipment Count": 63,
+      "Criticality Distribution": {
+        "CRITICAL": 68
+      },
+      "Average Resolution (min)": 738.44
+    }
+  ],
+  "temporal_patterns": {
+    "by_hour": {
+      "0": 634,
+      "1": 550,
+      "2": 420,
+      "3": 328,
+      "4": 333,
+      "5": 350,
+      "6": 318,
+      "7": 394,
+      "8": 372,
+      "9": 356,
+      "10": 370,
+      "11": 370,
+      "12": 329,
+      "13": 389,
+      "14": 359,
+      "15": 372,
+      "16": 392,
+      "17": 394,
+      "18": 403,
+      "19": 502,
+      "20": 601,
+      "21": 597,
+      "22": 588,
+      "23": 659
+    },
+    "by_day": {
+      "Friday": 3149,
+      "Sunday": 3012,
+      "Saturday": 3009,
+      "Thursday": 705,
+      "Monday": 414,
+      "Wednesday": 49,
+      "Tuesday": 42
+    },
+    "by_month": {
+      "May": 10179,
+      "April": 69,
+      "December": 37,
+      "March": 34,
+      "January": 33,
+      "February": 17,
+      "November": 5,
+      "October": 3,
+      "September": 1,
+      "August": 1,
+      "June": 1
+    }
+  },
+  "geographical_patterns": [
+    {
+      "Country": "Bahrain",
+      "City": "Capital",
+      "Total Alarms": 3,
+      "Critical Alarm Ratio": 0.6666666666666666
+    },
+    {
+      "Country": "Bahrain",
+      "City": "Northern",
+      "Total Alarms": 2,
+      "Critical Alarm Ratio": 0.5
+    },
+    {
+      "Country": "Bahrain",
+      "City": "Unknown",
+      "Total Alarms": 2,
+      "Critical Alarm Ratio": 1.0
+    },
+    {
+      "Country": "KSA",
+      "City": "KSA Central",
+      "Total Alarms": 2493,
+      "Critical Alarm Ratio": 0.2719614921780987
+    },
+    {
+      "Country": "KSA",
+      "City": "KSA Eastern",
+      "Total Alarms": 1511,
+      "Critical Alarm Ratio": 0.2600926538716082
+    },
+    {
+      "Country": "KSA",
+      "City": "KSA Western",
+      "Total Alarms": 1679,
+      "Critical Alarm Ratio": 0.3240023823704586
+    },
+    {
+      "Country": "KSA",
+      "City": "Unknown",
+      "Total Alarms": 18,
+      "Critical Alarm Ratio": 1.0
+    },
+    {
+      "Country": "UAE",
+      "City": "Abu Dhabi",
+      "Total Alarms": 1123,
+      "Critical Alarm Ratio": 0.2493321460373998
+    },
+    {
+      "Country": "UAE",
+      "City": "Ajman",
+      "Total Alarms": 486,
+      "Critical Alarm Ratio": 0.15432098765432098
+    },
+    {
+      "Country": "UAE",
+      "City": "Dubai",
+      "Total Alarms": 1929,
+      "Critical Alarm Ratio": 0.13841368584758942
+    },
+    {
+      "Country": "UAE",
+      "City": "Fujairah",
+      "Total Alarms": 98,
+      "Critical Alarm Ratio": 0.1836734693877551
+    },
+    {
+      "Country": "UAE",
+      "City": "Ras Al Khaimah",
+      "Total Alarms": 136,
+      "Critical Alarm Ratio": 0.23529411764705882
+    },
+    {
+      "Country": "UAE",
+      "City": "Sharjah",
+      "Total Alarms": 788,
+      "Critical Alarm Ratio": 0.17766497461928935
+    },
+    {
+      "Country": "UAE",
+      "City": "Umm Al Quwain",
+      "Total Alarms": 64,
+      "Critical Alarm Ratio": 0.0625
+    },
+    {
+      "Country": "UAE",
+      "City": "Unknown",
+      "Total Alarms": 48,
+      "Critical Alarm Ratio": 1.0
+    }
+  ]
+}
